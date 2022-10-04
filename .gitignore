@@ -1,0 +1,5 @@
+/.terraform
+/variable.tf
+/.terraform.lock.hcl
+/vprofilekey
+/vprofilekey.pub
